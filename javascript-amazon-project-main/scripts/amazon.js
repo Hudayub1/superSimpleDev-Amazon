@@ -1,4 +1,4 @@
-
+import {cart} from '../data/cart.js';
 
 
 let productsHTML = '';
@@ -97,3 +97,6 @@ document.querySelectorAll('.js-add-to-cart')
      
     })
   })
+
+
+/*do Exercise 13*/
